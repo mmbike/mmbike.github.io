@@ -6,11 +6,11 @@
     <description>Recent content in Categories on MM.BIKE</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-Hans</language>
-    <lastBuildDate>Sat, 05 Jun 2021 01:57:17 +0800</lastBuildDate><atom:link href="https://mm.bike/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 05 Jun 2021 02:14:59 +0800</lastBuildDate><atom:link href="https://mm.bike/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>bike</title>
       <link>https://mm.bike/categories/bike/</link>
-      <pubDate>Sat, 05 Jun 2021 01:57:17 +0800</pubDate>
+      <pubDate>Sat, 05 Jun 2021 02:14:59 +0800</pubDate>
       
       <guid>https://mm.bike/categories/bike/</guid>
       <description></description>
@@ -19,9 +19,18 @@
     <item>
       <title>mm</title>
       <link>https://mm.bike/categories/mm/</link>
-      <pubDate>Sat, 05 Jun 2021 01:57:17 +0800</pubDate>
+      <pubDate>Sat, 05 Jun 2021 02:14:59 +0800</pubDate>
       
       <guid>https://mm.bike/categories/mm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>road bike</title>
+      <link>https://mm.bike/categories/road-bike/</link>
+      <pubDate>Sat, 05 Jun 2021 02:14:59 +0800</pubDate>
+      
+      <guid>https://mm.bike/categories/road-bike/</guid>
       <description></description>
     </item>
     
