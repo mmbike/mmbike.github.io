@@ -2,11 +2,44 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://mm.bike/tags/bianchi/</loc>
+    <lastmod>2021-06-05T22:44:02+08:00</lastmod>
+  </url><url>
+    <loc>https://mm.bike/categories/bianchi/</loc>
+    <lastmod>2021-06-05T22:44:02+08:00</lastmod>
+  </url><url>
     <loc>https://mm.bike/tags/bike/</loc>
-    <lastmod>2021-06-05T22:09:25+08:00</lastmod>
+    <lastmod>2021-06-05T22:44:02+08:00</lastmod>
   </url><url>
     <loc>https://mm.bike/categories/bike/</loc>
-    <lastmod>2021-06-05T22:09:25+08:00</lastmod>
+    <lastmod>2021-06-05T22:44:02+08:00</lastmod>
+  </url><url>
+    <loc>https://mm.bike/categories/</loc>
+    <lastmod>2021-06-05T22:44:02+08:00</lastmod>
+  </url><url>
+    <loc>https://mm.bike/tags/mm/</loc>
+    <lastmod>2021-06-05T22:44:02+08:00</lastmod>
+  </url><url>
+    <loc>https://mm.bike/categories/mm/</loc>
+    <lastmod>2021-06-05T22:44:02+08:00</lastmod>
+  </url><url>
+    <loc>https://mm.bike/</loc>
+    <lastmod>2021-06-05T22:44:02+08:00</lastmod>
+  </url><url>
+    <loc>https://mm.bike/posts/</loc>
+    <lastmod>2021-06-05T22:44:02+08:00</lastmod>
+  </url><url>
+    <loc>https://mm.bike/posts/mm/rider_joohyun/</loc>
+    <lastmod>2021-06-05T22:44:02+08:00</lastmod>
+  </url><url>
+    <loc>https://mm.bike/tags/rider_joohyun/</loc>
+    <lastmod>2021-06-05T22:44:02+08:00</lastmod>
+  </url><url>
+    <loc>https://mm.bike/categories/rider_joohyun/</loc>
+    <lastmod>2021-06-05T22:44:02+08:00</lastmod>
+  </url><url>
+    <loc>https://mm.bike/tags/</loc>
+    <lastmod>2021-06-05T22:44:02+08:00</lastmod>
   </url><url>
     <loc>https://mm.bike/posts/mm/caroferrerb/</loc>
     <lastmod>2021-06-05T22:09:25+08:00</lastmod>
@@ -14,28 +47,10 @@
     <loc>https://mm.bike/tags/caroferrerb/</loc>
     <lastmod>2021-06-05T22:09:25+08:00</lastmod>
   </url><url>
-    <loc>https://mm.bike/categories/</loc>
-    <lastmod>2021-06-05T22:09:25+08:00</lastmod>
-  </url><url>
     <loc>https://mm.bike/tags/look/</loc>
     <lastmod>2021-06-05T22:09:25+08:00</lastmod>
   </url><url>
     <loc>https://mm.bike/categories/look/</loc>
-    <lastmod>2021-06-05T22:09:25+08:00</lastmod>
-  </url><url>
-    <loc>https://mm.bike/tags/mm/</loc>
-    <lastmod>2021-06-05T22:09:25+08:00</lastmod>
-  </url><url>
-    <loc>https://mm.bike/categories/mm/</loc>
-    <lastmod>2021-06-05T22:09:25+08:00</lastmod>
-  </url><url>
-    <loc>https://mm.bike/</loc>
-    <lastmod>2021-06-05T22:09:25+08:00</lastmod>
-  </url><url>
-    <loc>https://mm.bike/posts/</loc>
-    <lastmod>2021-06-05T22:09:25+08:00</lastmod>
-  </url><url>
-    <loc>https://mm.bike/tags/</loc>
     <lastmod>2021-06-05T22:09:25+08:00</lastmod>
   </url><url>
     <loc>https://mm.bike/posts/%E4%B8%80%E7%BB%84%E5%8D%A1%E9%80%9A%E9%A3%8E%E6%A0%BC%E9%AB%98%E6%B8%85%E9%AA%91%E8%A1%8C%E4%B8%BB%E9%A2%98%E5%A3%81%E7%BA%B8/</loc>
