@@ -2,9 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://mm.bike/categories/bike/</loc>
-    <lastmod>2021-06-14T00:24:17+08:00</lastmod>
-  </url><url>
     <loc>https://mm.bike/categories/</loc>
     <lastmod>2021-06-14T00:24:17+08:00</lastmod>
   </url><url>
@@ -51,6 +48,9 @@
     <lastmod>2021-06-14T00:08:22+08:00</lastmod>
   </url><url>
     <loc>https://mm.bike/tags/bike/</loc>
+    <lastmod>2021-06-13T21:17:29+08:00</lastmod>
+  </url><url>
+    <loc>https://mm.bike/categories/bike/</loc>
     <lastmod>2021-06-13T21:17:29+08:00</lastmod>
   </url><url>
     <loc>https://mm.bike/tags/mooooo000min/</loc>
