@@ -6,11 +6,11 @@
     <description>Recent content in Categories on MM.BIKE | Bike &amp;&amp; Motorcycle</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-Hans</language>
-    <lastBuildDate>Sat, 19 Jun 2021 12:26:23 +0800</lastBuildDate><atom:link href="https://mm.bike/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 27 Jun 2021 14:27:15 +0800</lastBuildDate><atom:link href="https://mm.bike/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>bike</title>
       <link>https://mm.bike/categories/bike/</link>
-      <pubDate>Sat, 19 Jun 2021 12:26:23 +0800</pubDate>
+      <pubDate>Sun, 27 Jun 2021 14:27:15 +0800</pubDate>
       
       <guid>https://mm.bike/categories/bike/</guid>
       <description></description>
@@ -19,9 +19,18 @@
     <item>
       <title>mm</title>
       <link>https://mm.bike/categories/mm/</link>
-      <pubDate>Sat, 19 Jun 2021 12:26:23 +0800</pubDate>
+      <pubDate>Sun, 27 Jun 2021 14:27:15 +0800</pubDate>
       
       <guid>https://mm.bike/categories/mm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pinarello</title>
+      <link>https://mm.bike/categories/pinarello/</link>
+      <pubDate>Sun, 27 Jun 2021 14:27:15 +0800</pubDate>
+      
+      <guid>https://mm.bike/categories/pinarello/</guid>
       <description></description>
     </item>
     
